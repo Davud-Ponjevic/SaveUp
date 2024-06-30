@@ -3,71 +3,15 @@
   "WorkspaceRootPath": "C:\\Github\\SaveUp\\SaveUp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\SaveUp\\SaveUp\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\davud\\AppData\\Local\\Temp\\.vsdbgsrc\\0a4a75a862084c18312f57432db850263c64e3f2\\Views_MainPage.xaml.sg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B96EC917-13D1-462A-82F0-C0DA43D3D333}|SaveUp.csproj|c:\\github\\saveup\\saveup\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B96EC917-13D1-462A-82F0-C0DA43D3D333}|SaveUp.csproj|solutionrelative:views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{B96EC917-13D1-462A-82F0-C0DA43D3D333}|SaveUp.csproj|c:\\github\\saveup\\saveup\\models\\saveditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B96EC917-13D1-462A-82F0-C0DA43D3D333}|SaveUp.csproj|solutionrelative:models\\saveditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B96EC917-13D1-462A-82F0-C0DA43D3D333}|SaveUp.csproj|c:\\github\\saveup\\saveup\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B96EC917-13D1-462A-82F0-C0DA43D3D333}|SaveUp.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B96EC917-13D1-462A-82F0-C0DA43D3D333}|SaveUp.csproj|c:\\github\\saveup\\saveup\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B96EC917-13D1-462A-82F0-C0DA43D3D333}|SaveUp.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B96EC917-13D1-462A-82F0-C0DA43D3D333}|SaveUp.csproj|c:\\github\\saveup\\saveup\\viewmodels\\itemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B96EC917-13D1-462A-82F0-C0DA43D3D333}|SaveUp.csproj|solutionrelative:viewmodels\\itemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B96EC917-13D1-462A-82F0-C0DA43D3D333}|SaveUp.csproj|c:\\github\\saveup\\saveup\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B96EC917-13D1-462A-82F0-C0DA43D3D333}|SaveUp.csproj|solutionrelative:viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B96EC917-13D1-462A-82F0-C0DA43D3D333}|SaveUp.csproj|c:\\github\\saveup\\saveup\\views\\additempage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B96EC917-13D1-462A-82F0-C0DA43D3D333}|SaveUp.csproj|solutionrelative:views\\additempage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B96EC917-13D1-462A-82F0-C0DA43D3D333}|SaveUp.csproj|c:\\github\\saveup\\saveup\\views\\itemlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B96EC917-13D1-462A-82F0-C0DA43D3D333}|SaveUp.csproj|solutionrelative:views\\itemlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B96EC917-13D1-462A-82F0-C0DA43D3D333}|SaveUp.csproj|c:\\github\\saveup\\saveup\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B96EC917-13D1-462A-82F0-C0DA43D3D333}|SaveUp.csproj|solutionrelative:views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B96EC917-13D1-462A-82F0-C0DA43D3D333}|SaveUp.csproj|c:\\github\\saveup\\saveup\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B96EC917-13D1-462A-82F0-C0DA43D3D333}|SaveUp.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B96EC917-13D1-462A-82F0-C0DA43D3D333}|SaveUp.csproj|c:\\github\\saveup\\saveup\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B96EC917-13D1-462A-82F0-C0DA43D3D333}|SaveUp.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B96EC917-13D1-462A-82F0-C0DA43D3D333}|SaveUp.csproj|c:\\github\\saveup\\saveup\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B96EC917-13D1-462A-82F0-C0DA43D3D333}|SaveUp.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B96EC917-13D1-462A-82F0-C0DA43D3D333}|SaveUp.csproj|c:\\github\\saveup\\saveup\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B96EC917-13D1-462A-82F0-C0DA43D3D333}|SaveUp.csproj|solutionrelative:viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B96EC917-13D1-462A-82F0-C0DA43D3D333}|SaveUp.csproj|c:\\github\\saveup\\saveup\\models\\saveditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B96EC917-13D1-462A-82F0-C0DA43D3D333}|SaveUp.csproj|solutionrelative:models\\saveditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B96EC917-13D1-462A-82F0-C0DA43D3D333}|SaveUp.csproj|c:\\github\\saveup\\saveup\\views\\itemlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B96EC917-13D1-462A-82F0-C0DA43D3D333}|SaveUp.csproj|solutionrelative:views\\itemlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B96EC917-13D1-462A-82F0-C0DA43D3D333}|SaveUp.csproj|c:\\github\\saveup\\saveup\\views\\additempage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B96EC917-13D1-462A-82F0-C0DA43D3D333}|SaveUp.csproj|solutionrelative:views\\additempage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\davud\\AppData\\Local\\Temp\\.vsdbgsrc\\0a4a75a862084c18312f57432db850263c64e3f2\\Views_MainPage.xaml.sg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -138,223 +82,41 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "App.g.i.cs",
-              "DocumentMoniker": "C:\\Github\\SaveUp\\SaveUp\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "RelativeDocumentMoniker": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "ToolTip": "C:\\Github\\SaveUp\\SaveUp\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "RelativeToolTip": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "ViewState": "AQIAADcAAAAAAAAAAAAAAEMAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T14:52:51.776Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Github\\SaveUp\\SaveUp\\Views\\MainPage.xaml",
-              "RelativeDocumentMoniker": "Views\\MainPage.xaml",
-              "ToolTip": "C:\\Github\\SaveUp\\SaveUp\\Views\\MainPage.xaml",
-              "RelativeToolTip": "Views\\MainPage.xaml",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAowBMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-26T14:52:15.622Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Views_MainPage.xaml.sg.cs",
-              "DocumentMoniker": "C:\\Users\\davud\\AppData\\Local\\Temp\\.vsdbgsrc\\0a4a75a862084c18312f57432db850263c64e3f2\\Views_MainPage.xaml.sg.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Users\\davud\\AppData\\Local\\Temp\\.vsdbgsrc\\0a4a75a862084c18312f57432db850263c64e3f2\\Views_MainPage.xaml.sg.cs",
-              "ToolTip": "C:\\Users\\davud\\AppData\\Local\\Temp\\.vsdbgsrc\\0a4a75a862084c18312f57432db850263c64e3f2\\Views_MainPage.xaml.sg.cs [Read Only]",
-              "RelativeToolTip": "..\\..\\..\\Users\\davud\\AppData\\Local\\Temp\\.vsdbgsrc\\0a4a75a862084c18312f57432db850263c64e3f2\\Views_MainPage.xaml.sg.cs [Read Only]",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAABkAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T14:50:51.936Z",
-              "EditorCaption": " [Read Only]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AddItemPage.xaml.cs",
-              "DocumentMoniker": "C:\\Github\\SaveUp\\SaveUp\\Views\\AddItemPage.xaml.cs",
-              "RelativeDocumentMoniker": "Views\\AddItemPage.xaml.cs",
-              "ToolTip": "C:\\Github\\SaveUp\\SaveUp\\Views\\AddItemPage.xaml.cs",
-              "RelativeToolTip": "Views\\AddItemPage.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T14:32:23.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainPageViewModel.cs",
-              "DocumentMoniker": "C:\\Github\\SaveUp\\SaveUp\\ViewModels\\MainPageViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\MainPageViewModel.cs",
-              "ToolTip": "C:\\Github\\SaveUp\\SaveUp\\ViewModels\\MainPageViewModel.cs",
-              "RelativeToolTip": "ViewModels\\MainPageViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T14:39:38.755Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ItemViewModel.cs",
-              "DocumentMoniker": "C:\\Github\\SaveUp\\SaveUp\\ViewModels\\ItemViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\ItemViewModel.cs",
-              "ToolTip": "C:\\Github\\SaveUp\\SaveUp\\ViewModels\\ItemViewModel.cs",
-              "RelativeToolTip": "ViewModels\\ItemViewModel.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAgwCgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T14:37:23.725Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Github\\SaveUp\\SaveUp\\App.xaml",
-              "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "C:\\Github\\SaveUp\\SaveUp\\App.xaml",
-              "RelativeToolTip": "App.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-26T14:46:06.374Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ItemListPage.xaml.cs",
-              "DocumentMoniker": "C:\\Github\\SaveUp\\SaveUp\\Views\\ItemListPage.xaml.cs",
-              "RelativeDocumentMoniker": "Views\\ItemListPage.xaml.cs",
-              "ToolTip": "C:\\Github\\SaveUp\\SaveUp\\Views\\ItemListPage.xaml.cs",
-              "RelativeToolTip": "Views\\ItemListPage.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T14:33:20.929Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Github\\SaveUp\\SaveUp\\AppShell.xaml",
-              "RelativeDocumentMoniker": "AppShell.xaml",
-              "ToolTip": "C:\\Github\\SaveUp\\SaveUp\\AppShell.xaml",
-              "RelativeToolTip": "AppShell.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-26T14:33:32.061Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Github\\SaveUp\\SaveUp\\Views\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "Views\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Github\\SaveUp\\SaveUp\\Views\\MainPage.xaml.cs",
-              "RelativeToolTip": "Views\\MainPage.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T14:46:40.432Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "C:\\Github\\SaveUp\\SaveUp\\AppShell.xaml.cs",
-              "RelativeDocumentMoniker": "AppShell.xaml.cs",
-              "ToolTip": "C:\\Github\\SaveUp\\SaveUp\\AppShell.xaml.cs",
-              "RelativeToolTip": "AppShell.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T14:46:21.413Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Github\\SaveUp\\SaveUp\\App.xaml.cs",
-              "RelativeDocumentMoniker": "App.xaml.cs",
-              "ToolTip": "C:\\Github\\SaveUp\\SaveUp\\App.xaml.cs",
-              "RelativeToolTip": "App.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T14:45:57.233Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BaseViewModel.cs",
-              "DocumentMoniker": "C:\\Github\\SaveUp\\SaveUp\\ViewModels\\BaseViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\BaseViewModel.cs",
-              "ToolTip": "C:\\Github\\SaveUp\\SaveUp\\ViewModels\\BaseViewModel.cs",
-              "RelativeToolTip": "ViewModels\\BaseViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T14:37:46.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "SavedItem.cs",
               "DocumentMoniker": "C:\\Github\\SaveUp\\SaveUp\\Models\\SavedItem.cs",
               "RelativeDocumentMoniker": "Models\\SavedItem.cs",
               "ToolTip": "C:\\Github\\SaveUp\\SaveUp\\Models\\SavedItem.cs",
               "RelativeToolTip": "Models\\SavedItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T14:36:42.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Github\\SaveUp\\SaveUp\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "MauiProgram.cs",
-              "ToolTip": "C:\\Github\\SaveUp\\SaveUp\\MauiProgram.cs",
-              "RelativeToolTip": "MauiProgram.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T14:24:37.779Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ItemListPage.xaml",
-              "DocumentMoniker": "C:\\Github\\SaveUp\\SaveUp\\Views\\ItemListPage.xaml",
-              "RelativeDocumentMoniker": "Views\\ItemListPage.xaml",
-              "ToolTip": "C:\\Github\\SaveUp\\SaveUp\\Views\\ItemListPage.xaml",
-              "RelativeToolTip": "Views\\ItemListPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-26T14:33:01.098Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AddItemPage.xaml",
-              "DocumentMoniker": "C:\\Github\\SaveUp\\SaveUp\\Views\\AddItemPage.xaml",
-              "RelativeDocumentMoniker": "Views\\AddItemPage.xaml",
-              "ToolTip": "C:\\Github\\SaveUp\\SaveUp\\Views\\AddItemPage.xaml",
-              "RelativeToolTip": "Views\\AddItemPage.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-26T14:31:58.179Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T15:55:27.37Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Github\\SaveUp\\SaveUp\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Github\\SaveUp\\SaveUp\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T15:48:57.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Views_MainPage.xaml.sg.cs",
+              "DocumentMoniker": "C:\\Users\\davud\\AppData\\Local\\Temp\\.vsdbgsrc\\0a4a75a862084c18312f57432db850263c64e3f2\\Views_MainPage.xaml.sg.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\davud\\AppData\\Local\\Temp\\.vsdbgsrc\\0a4a75a862084c18312f57432db850263c64e3f2\\Views_MainPage.xaml.sg.cs",
+              "ToolTip": "C:\\Users\\davud\\AppData\\Local\\Temp\\.vsdbgsrc\\0a4a75a862084c18312f57432db850263c64e3f2\\Views_MainPage.xaml.sg.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\Users\\davud\\AppData\\Local\\Temp\\.vsdbgsrc\\0a4a75a862084c18312f57432db850263c64e3f2\\Views_MainPage.xaml.sg.cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwAoAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T15:47:26.615Z",
+              "EditorCaption": " [Read Only]"
             }
           ]
         },

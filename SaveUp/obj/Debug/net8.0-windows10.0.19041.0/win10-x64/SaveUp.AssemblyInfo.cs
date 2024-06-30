@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SaveUp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+e3ecb3be0e645dbf3bc0623ad26545a49084e525")]
 [assembly: System.Reflection.AssemblyProductAttribute("SaveUp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SaveUp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

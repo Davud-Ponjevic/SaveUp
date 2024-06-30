@@ -116,7 +116,6 @@ C:\Github\SaveUp\SaveUp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft
 C:\Github\SaveUp\SaveUp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
 C:\Github\SaveUp\SaveUp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
 C:\Github\SaveUp\SaveUp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
-C:\Github\SaveUp\SaveUp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Release.Net.dll
 C:\Github\SaveUp\SaveUp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ar\Microsoft.Maui.Controls.resources.dll
 C:\Github\SaveUp\SaveUp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ca\Microsoft.Maui.Controls.resources.dll
 C:\Github\SaveUp\SaveUp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cs\Microsoft.Maui.Controls.resources.dll
@@ -175,3 +174,6 @@ C:\Github\SaveUp\SaveUp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifier
 C:\Github\SaveUp\SaveUp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Github\SaveUp\SaveUp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Github\SaveUp\SaveUp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Github\SaveUp\SaveUp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Management.Deployment.Projection.dll
+C:\Github\SaveUp\SaveUp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.outputs
+C:\Github\SaveUp\SaveUp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\SaveUp.sourcelink.json
